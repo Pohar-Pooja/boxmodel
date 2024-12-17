@@ -1,0 +1,22 @@
+#one{
+position:fixed;
+color:blue;
+}
+#two{
+    position:fixed;
+    bottom:10px;
+    left:10px;
+    color:blue;   
+}
+#three{
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    color:blue;    
+}
+#four{
+position:fixed;
+top:10px;
+right:10px;
+color:blue;
+}
